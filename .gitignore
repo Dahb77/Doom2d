@@ -1,9 +1,9 @@
+.DS_Store
 # Miscellaneous
 *.class
 *.log
 *.pyc
 *.swp
-.DS_Store
 .atom/
 .build/
 .buildlog/
@@ -43,3 +43,30 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Node / Web / Angular related (kept from remote to avoid committing web build artifacts)
+/dist/
+/out-tsc/
+/tmp/
+/e2e/test-output/
+/.angular/
+
+# Node modules and dependency files
+/node_modules/
+/package-lock.json
+/yarn.lock
+
+# Environment files
+/.env
+
+# Angular CLI and build artefacts
+/.angular-cli.json
+/.ng/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

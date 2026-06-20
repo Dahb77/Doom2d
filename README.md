@@ -1,5 +1,7 @@
 # DOOM 2D
 
+Entrega final
+
 Proyecto desarrollado en Flutter y Dart para el curso Desarrollo de Aplicaciones Móviles Avanzadas.
 
 ## Requisitos
@@ -42,7 +44,7 @@ El Game Loop se implementa utilizando un Ticker de Flutter. En cada actualizaci�
 
 ## Capturas
 
-![Menú Principal](screenshots/menu.png)
+![Menú Principal](screenshots/Menu.png)
 
 ![Gameplay](screenshots/gameplay.png)
 
